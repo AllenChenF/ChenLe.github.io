@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "陈乐"
+title                    : "陈乐的个人网页"
 title_separator          : "-"
 name                     : &name "陈乐"
 description              : #&description "personal description"
