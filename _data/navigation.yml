@@ -9,7 +9,7 @@
 
 main:
   - title: "教育经历"
-    url: /eduction/    
+    url: /teaching/    
     
   - title: "获奖和荣誉"
-    url: /awards/
+    url: /portfolio/
