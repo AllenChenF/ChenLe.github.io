@@ -7,9 +7,9 @@
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
 
-main:
-  - title: "教育经历"
-    url: /teaching/    
+#main:
+  #- title: "教育经历"
+  #  url: /teaching/    
     
-  - title: "获奖和荣誉"
-    url: /portfolio/
+  #- title: "获奖和荣誉"
+  #  url: /portfolio/
