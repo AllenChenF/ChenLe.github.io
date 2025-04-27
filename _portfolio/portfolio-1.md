@@ -1,5 +1,5 @@
 ---
-title: "奖项和荣誉"
+
 excerpt: "本科期间获得奖项和荣誉"
 collection: portfolio
 ---
