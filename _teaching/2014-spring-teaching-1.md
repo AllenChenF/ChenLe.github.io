@@ -3,7 +3,7 @@ title: "教育经历1"
 collection: teaching
 type: "数据科学与大数据技术（理科试验班）"
 permalink: /teaching/2014-spring-teaching-1
-venue: "中国农业大学, Department"
+venue: "中国农业大学"
 date: 2021.09-2025.07
 location: "中国·北京"
 ---
