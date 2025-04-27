@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "教育经历"
+title: "teaching"
 author_profile: true
 ---
 
