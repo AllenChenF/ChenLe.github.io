@@ -22,7 +22,7 @@ url                      : https://chenle04.github.io # the base hostname & prot
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "0-证件照.png"
+  avatar           : "chenle.png"
   name             : "陈乐"
   pronouns         : # example: "she/her"  
   bio              : "这是简介"
