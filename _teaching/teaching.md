@@ -1,7 +1,5 @@
 ---
-permalink: /
-title: "teaching"
-author_profile: true
+title: "教育经历"
 ---
 
 2025-至今,中国农业大学，研究生
