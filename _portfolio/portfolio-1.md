@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "奖项和荣誉"
+excerpt: "本科期间获得奖项和荣誉"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+第十四届全国大学生数学竞赛（非数学类），三等奖.
+北京市第三十三届大学生数学竞赛（非数学甲组），二等奖.
