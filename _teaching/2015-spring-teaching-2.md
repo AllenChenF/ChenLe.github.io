@@ -1,9 +1,9 @@
 ---
 title: "教育经历2"
 collection: teaching
-type: "Workshop"
+type: "计算机科学与技术"
 permalink: /teaching/2015-spring-teaching-1
-venue: "中国农业大学, 计算机科学与技术"
+venue: "中国农业大学"
 date: 2025.09-至今
 location: "中国·北京"
 ---
