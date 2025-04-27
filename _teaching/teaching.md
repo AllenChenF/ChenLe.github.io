@@ -1,5 +1,5 @@
 ---
-title: "教育经历"
+#title: "教育经历"
 #permalink: /teaching/teaching
 ---
 2025-至今,中国农业大学，研究生
