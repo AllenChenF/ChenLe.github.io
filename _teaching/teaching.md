@@ -1,3 +1,9 @@
+---
+permalink: /
+title: "教育经历"
+author_profile: true
+---
+
 2025-至今,中国农业大学，研究生
 ======
 专业
