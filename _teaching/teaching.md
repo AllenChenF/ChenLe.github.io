@@ -1,6 +1,6 @@
 ---
 title: "教育经历"
-#permalink: /teaching/2014-spring-teaching-1
+#permalink: /teaching/teaching
 ---
 2025-至今,中国农业大学，研究生
 ======
