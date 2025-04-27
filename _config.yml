@@ -13,7 +13,7 @@ title                    : "陈乐"
 title_separator          : "-"
 name                     : &name "陈乐"
 description              : &description "personal description"
-url                      : https://chenle04.github.io # the base hostname & protocol for your site e.g. "https://chenle04.github.io"
+url                      : https://ChenLe04.github.io 
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #repository               : "academicpages/academicpages.github.io"
 
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
